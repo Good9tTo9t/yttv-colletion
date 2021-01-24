@@ -1,2 +1,2 @@
 # yttv-colletion
-A collection of Taiwanese TV on YouTube
+A free, YouTubed based, simple TV collection.
